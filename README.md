@@ -1,3 +1,4 @@
+AutoCollect is intended to extend the Overland Application to include capturing audio and lcoations of the audio, and log this info to a db
 Overland GPS Tracker for iOS
 ============================
 
