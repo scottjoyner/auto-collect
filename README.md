@@ -1,3 +1,5 @@
+# AutoCollect
+
 <!-- repo-entrypoint-guide:start -->
 ## Repository guide
 
@@ -14,7 +16,11 @@
 - [License](#license)
 <!-- repo-entrypoint-guide:end -->
 
-AutoCollect is intended to extend the Overland Application to include capturing audio and lcoations of the audio, and log this info to a db
+AutoCollect is intended to extend the Overland application with audio capture and location metadata, with records stored in a database. This is a project goal; consult the source to determine what has actually been implemented.
+
+## Upstream Overland documentation
+
+The following sections describe the original Overland GPS tracker:
 Overland GPS Tracker for iOS
 ============================
 
