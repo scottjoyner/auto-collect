@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Repository orientation:** This checkout extends the Overland iOS location-collection concept with an audio/location logging goal. The longer Overland documentation below describes the underlying tracking app and API; distinguish those upstream features from modifications actually implemented in this repository.
+> 
+> **Privacy:** Location, audio, and motion recordings require informed consent, appropriate OS permissions, and protected storage. Configure a test endpoint before enabling background collection.
+<!-- repo-entrypoint-guide:end -->
+
 AutoCollect is intended to extend the Overland Application to include capturing audio and lcoations of the audio, and log this info to a db
 Overland GPS Tracker for iOS
 ============================
